@@ -1,4 +1,5 @@
 This is final project code of deep learning(02456).
+Group member:Xiaohan Lyu(s182354), Liguang he(s190008), Jingshi Hu(s181387).
 Our project runs on the colab platform, so we put the dataset on the google drive platform for easy invocation. 
 To run the code smoothly, perform the following steps:
 1. Create a new folder on Google drive named Gland_SegNet.
