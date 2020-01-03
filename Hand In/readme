@@ -1,0 +1,7 @@
+This is final project code of deep learning(02456).
+Our project runs on the colab platform, so we put the dataset on the google drive platform for easy invocation. 
+To run the code smoothly, perform the following steps:
+1. Create a new folder on Google drive named Gland_SegNet.
+2. Please place the dataset under this folder and rename it Raw Dataset.
+3. Run the code.
+Data set download web:
